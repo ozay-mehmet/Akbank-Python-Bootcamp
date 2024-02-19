@@ -7,3 +7,5 @@ pyfiglet kütüphanesi ==> ascii yazisini göstermek için kullanılmıştır.
 tkinter kütüphanesi ==> ascii yazisini farklı bir pencerede açmak için kullanılmıştır.
 
 Kodumuzun sıralama metodunda yıla, sayfa sayısına göre sıralama yapılamamıştır.(Dizimiz string dizisi olduğu için) Bu yüzden sıralama metodu farklı kriterlere göre sıralamyı içermektedir. 
+
+Projedenin kodlarına akbank dosyası altındaki .py uzantılı dosyadan ulaşabilirsiniz.
