@@ -65,7 +65,7 @@ class Library:
         silinemeyecekler = [satir for satir in satirlar if self.name not in satir]
         with open("kitaplar.txt", "w") as file: 
             file.writelines(silinemeyecekler)
-        if self.name not in satirlar:
+        if self.name in satirlar:
             print(f"\n{self.name} isimli kitap basariyla silinmistir...\n")
         else:   
            print(f"{self.name}, eklediginiz kitaplar listesinde bulunamadi :(\n")
